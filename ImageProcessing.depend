@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669366726 source:d:\imageprocessing\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	"prototype.h"
+
+1669366687 d:\imageprocessing\prototype.h
+	<string.h>
+
